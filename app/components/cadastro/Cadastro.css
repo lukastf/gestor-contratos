@@ -1,0 +1,79 @@
+.backButton {
+  position: absolute;
+}
+
+.titulo {
+  margin-left: 6rem;
+}
+
+.container2 {
+  display: flex;
+}
+
+.painelLeft {
+  border-style: solid;
+  height: 45.5rem;
+  min-width: 18rem;
+  width: 19rem;
+}
+
+.container2 a {
+  font-size: 1.4rem;
+}
+
+.container2 .painelLeft div {
+  /*margin-bottom: 4rem;*/
+}
+
+.painelLeft button {
+  padding: 1rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+  width: 100%;
+  font-size: 2rem;
+}
+
+.mainContent {
+  display: flex;
+  flex-direction: column;
+  width: 80rem;
+}
+
+.mainContent h2 {
+  margin: 2rem;
+}
+.mainContent h1 {
+  margin-left: 10rem;
+}
+
+.dNone {
+  display: none;
+}
+
+.btn {
+  background-color: white;
+}
+
+.btnSelected {
+  background-color: gray;
+}
+
+.input {
+  padding: 1rem 1rem;
+  margin: 1rem;
+  display: inline-block;
+  border: 0.05rem solid #ccc;
+  border-radius: 0.3rem;
+  box-sizing: border-box;
+  margin-left: 2rem;
+  height: 3rem;
+  width: 27rem;
+}
+
+.inputs {
+  margin-left: 10rem;
+}
+
+label {
+  font-size: 1.3rem;
+}

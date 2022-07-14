@@ -1,0 +1,22 @@
+.backButton {
+  position: absolute;
+}
+
+.scroll {
+  overflow: scroll;
+  height: 40rem;
+  overflow-x: hidden;
+}
+
+input[type="radio"] {
+  margin-left: 3rem;
+}
+
+.btn button {
+  background-color: white;
+  padding: 1rem;
+  width: 30%;
+  font-size: 2rem;
+  margin-left: 10rem;
+  margin-top: 2rem;
+}

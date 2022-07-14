@@ -1,0 +1,14 @@
+{
+  "HOME": "/",
+  "COUNTER": "/counter",
+  "CADASTRO": "/cadastro",
+  "CONTRATOS": "/contratos",
+  "RELATORIOS": "/relatorios",
+  "BALANCO": "/balanco",
+
+  "ORDEM_SERVICO": "/ordem-servico",
+  "DESPESAS": "/despesas",
+  "NFE": "/nfe",
+  "CONSULTE_NFE": "/consulte-nfe",
+  "PAGAMENTO": "/pagamento"
+}

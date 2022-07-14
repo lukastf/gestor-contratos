@@ -1,0 +1,105 @@
+.container {
+  display: flex;
+  
+}
+.container2 {
+  display: flex;
+  /*flex-direction: column;*/
+}
+.painelTop {
+  border-style: solid;
+  width: 80rem;
+  padding-top: 2rem;
+}
+.painelLeft {
+  border-style: solid;
+  padding: 4.8rem;
+  height: 35.5rem;
+  padding-top: 2rem;
+  padding-bottom: 6.3rem;
+}
+
+.container h2 {
+  font-size: 1.5rem;
+  border-style: solid;
+  padding: 2rem;
+}
+
+.container a {
+  font-size: 1.4rem;
+  margin-left: 10rem;
+}
+
+.container2 a {
+  font-size: 1.4rem;
+}
+
+.container2 .painelLeft div {
+  margin-bottom: 4rem;
+}
+
+.mainContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.mainContent h2 {
+  margin: 2rem;
+}
+
+.pesquisarGroup {
+  display: flex;
+}
+
+.pesquisar {
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-left: 2rem;
+  height: 3rem;
+  width: 30rem;
+}
+
+.pesquisarGroup div {
+  margin-top: 1.5rem;
+}
+
+.pesquisarGroup p {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.pesquisarGroup label {
+  margin-right: 2rem;
+}
+
+.logosContainer {
+  overflow: scroll;
+  width: 80rem;
+  height: 33rem;
+  overflow-x: hidden;
+}
+
+.logos {
+  display: flex;
+  margin-bottom: 3rem;
+}
+
+.logo {
+  width: 10rem;
+  height: 10rem;
+  margin-left: 2rem;
+  margin-right: 4rem;
+}
+.logos div {
+  width: 15rem;
+}
+.logos p {
+  text-align: center;
+  font-size: 1rem;
+}
+
+
